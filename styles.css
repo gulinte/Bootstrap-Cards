@@ -1,0 +1,22 @@
+.card-text {
+  font-family: 'Nunito';
+}
+
+.card {
+  text-align: center;
+}
+
+.card-title {
+  font family: 'Poppins';
+  font-weight: bold;
+}
+
+.card-header {
+  font family: 'Poppins';
+}
+
+#cards {
+  padding-left: 40%;
+  padding-top: 5%;
+  text-align: center;
+}
